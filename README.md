@@ -9,7 +9,6 @@ Welcome to my GitHub profile. As a data scientist in training, I am building a c
 ## 🌟 About Me
 
 - 💼 Currently working as a **Data Analyst at LEXER**, where I have gained experience in SQL Server databases, dashboard construction, and ETL processes.
-- 🎓 Student of **Data Science** at the Open University of Catalonia, currently in my third year.
 - 🌍 Explorer of **artificial intelligence** and its practical applications.
 - 🎮 In my free time, I enjoy playing video games, watching horror movies, and learning more about technology through YouTube content.
 
@@ -19,16 +18,16 @@ Welcome to my GitHub profile. As a data scientist in training, I am building a c
 
 - **Programming Languages**: Python, Java, R
 - **Databases**: SQL, Neo4j, MongoDB, Cassandra
-- **Advanced Analytics**: Random Forest, DBSCAN, OPTICS
+- **Advanced Analytics**: Scikit-learn, Tensorflow, Keras, Pytorch
+- **Visualization**: Matplotlib, Seaborn, Power BI, Tableau
+- **Cloud**: AWS, Azure.
 
 
 
 ## 🔭 What I'm Working On
 
-- 🧩 A project on **mental health by country**, applying classification algorithms like Random Forest, DBSCAN, and OPTICS.
 - 📊 Exploring ways to effectively represent and communicate data.
 - 🌟 In the future, I plan to develop more complex and robust projects to expand my professional portfolio.
-
 
 
 ## 🌐 Networks and Contact
@@ -60,7 +59,6 @@ Bienvenido a mi perfil de GitHub. Como científico de datos en formación, estoy
 ## 🌟 Sobre mí
 
 - 💼 Actualmente trabajo como **Data Analyst en LEXER**, donde he desarrollado experiencia en bases de datos SQL Server, construcción de dashboards y procesos ETL.
-- 🎓 Estudiante de **Ciencia de Datos** en la Universidad Oberta de Cataluña, cursando mi tercer año.
 - 🌍 Explorador de la **inteligencia artificial** y sus aplicaciones prácticas.
 - 🎮 En mi tiempo libre, disfruto de los videojuegos, las películas de terror y aprendiendo más sobre tecnología a través de contenido en YouTube.
 
@@ -70,13 +68,15 @@ Bienvenido a mi perfil de GitHub. Como científico de datos en formación, estoy
 
 - **Lenguajes de programación**: Python, Java, R
 - **Bases de datos**: SQL, Neo4j, MongoDB, Cassandra
-- **Análisis avanzado**: Random Forest, DBSCAN, OPTICS
+- **Análisis avanzado**: Scikit-learn, Tensorflow, Keras, Pytorch
+- **Visualizacion**: Matplotlib, Seaborn, Power BI, Tableau
+- **Cloud**: AWS, Azure.
+
 
 
 
 ## 🔭 ¿En qué estoy trabajando?
 
-- 🧩 Un proyecto de **salud mental por países**, aplicando algoritmos de clasificación como Random Forest, DBSCAN y OPTICS.
 - 📊 Explorando formas de representar y comunicar datos de manera efectiva.
 - 🌟 En el futuro, planeo desarrollar proyectos más complejos y robustos para ampliar mi portafolio profesional.
 
